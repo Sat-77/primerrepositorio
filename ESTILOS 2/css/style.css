@@ -1,0 +1,15 @@
+
+/*Formateo de valores por defecto  */
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: 
+    border-box;
+}
+/* aplicamos estilos al body */
+body {
+    background-color: palevioletred;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+/*  */
